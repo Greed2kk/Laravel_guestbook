@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/xampp/htdocs/Laravel_project/database/migrations/2014_10_12_000000_create_users_table.php</file>
+            <file>file:/D:/xampp/htdocs/Laravel_project/app/Http/Controllers/HomeController.php</file>
+            <file>file:/D:/xampp/htdocs/Laravel_project/resources/views/pages/messages/index.blade.php</file>
+            <file>file:/D:/xampp/htdocs/Laravel_project/resources/views/pages/messages/edit.blade.php</file>
+            <file>file:/D:/xampp/htdocs/Laravel_project/resources/views/pages/messages/editmessage.blade.php</file>
+            <file>file:/D:/xampp/htdocs/Laravel_project/resources/views/index.blade.php</file>
+            <file>file:/D:/xampp/htdocs/Laravel_project/resources/views/layouts/app.blade.php</file>
+            <file>file:/D:/xampp/htdocs/Laravel_project/app/models/message.php</file>
+            <file>file:/D:/xampp/htdocs/Laravel_project/resources/views/pages/messages/images.blade.php</file>
+            <file>file:/D:/xampp/htdocs/Laravel_project/resources/views/pages/messages/_item.blade.php</file>
+            <file>file:/D:/xampp/htdocs/Laravel_project/public/js/timerRq.js</file>
+            <file>file:/D:/xampp/htdocs/Laravel_project/resources/views/pages/messages/editform.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
